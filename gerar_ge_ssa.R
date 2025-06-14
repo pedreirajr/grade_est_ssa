@@ -95,9 +95,3 @@ dir.create(dir_output)
 ### Salvando em formato .gpkg
 st_write(ge_ssa2010, paste0(dir_output,'ge_ssa2010.gpkg'))
 st_write(ge_ssa2022, paste0(dir_output,'ge_ssa2022.gpkg'))
-
-
-
-#(0) Leitura dos pacotes necessários (instalar caso não estejam instalados)
-library(tidyverse); library(sf); library(geobr);
-
