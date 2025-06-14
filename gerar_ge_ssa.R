@@ -8,7 +8,7 @@ library(tidyverse); library(sf); library(geobr);
 ## Salvador está compreendida nas grades de 500 X 500 km de ID's 47 e 57
 ### Como descobrir para outras cidades:
 #### Opção (1):
-##### Acesse https://portaldemapas.ibge.gov.br/, vá em buscar e digite "grade estatística"
+##### Acesse https://portaldemapas.ibge.gov.br/, vá em "Busca" e digite "grade estatística"
 ##### Depois visualize grids 47 e 57 e veja que ambas contêm Salvador
 #### Opção (2):
 ##### Link da articulação 500 X 500 km: https://geoftp.ibge.gov.br/recortes_para_fins_estatisticos/grade_estatistica/censo_2010/articulacao.jpg
